@@ -1,1 +1,1 @@
-# ML_minor_project
+# Product sales prediction using Machine Learning
