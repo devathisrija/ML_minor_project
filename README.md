@@ -108,7 +108,7 @@ The system:
 
 **Devathi Srija**  
 - 🎓 CSE C  
-- 📧 Email: *your email here*  
-- 🔗 LinkedIn: *your LinkedIn link here*  
+- 📧 Email: srijadevathi@gmail.com 
+
 
 ---
