@@ -91,8 +91,8 @@ The system:
 ---
 
 ## 📷 Screenshots  
-
-*(Add screenshots from your PPT showing workflow, graphs, and results)*  
+  
+![Observations](https://github.com/devathisrija/Image-and-video-processing-using-open-cv/blob/main/screenshots/Screenshot%20(651).png)
 
 ---
 
