@@ -91,8 +91,14 @@ The system:
 ---
 
 ## 📷 Screenshots  
-  
-![Observations](https://github.com/devathisrija/Image-and-video-processing-using-open-cv/blob/main/screenshots/Screenshot%20(651).png)
+**Observations**  
+![Observations](https://github.com/devathisrija/Product-sales-prediction-using-machine-learning/blob/main/screenshots/Screenshot%20(695).png)
+
+**Results**
+![Results](https://github.com/devathisrija/Product-sales-prediction-using-machine-learning/blob/main/screenshots/Screenshot%20(696).png)
+
+**Results**
+![Results](https://github.com/devathisrija/Product-sales-prediction-using-machine-learning/blob/main/screenshots/Screenshot%20(697).png)
 
 ---
 
